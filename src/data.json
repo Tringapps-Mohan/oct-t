@@ -1,0 +1,11 @@
+{
+    "realme":{
+        "options":["Realme c1", "Realme c2", "Realme c3", "Realme c4"]
+    },
+    "samsung":{
+        "options":["Galaxy 1"]
+    },
+    "intex":{
+        "options":["Intex cloud"]
+    }
+}
